@@ -1,0 +1,11 @@
+pandas
+numpy
+pyyaml
+matplotlib
+seaborn
+reportlab
+watchdog
+apscheduler
+scikit-learn
+streamlit
+openpyxl
